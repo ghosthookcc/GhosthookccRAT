@@ -1,0 +1,5 @@
+C:\Users\19kathor\source\repos\GhosthookccRAT\obj\Debug\netcoreapp3.1\GhosthookccRAT.csprojAssemblyReference.cache
+C:\Users\19kathor\source\repos\GhosthookccRAT\obj\Debug\netcoreapp3.1\GhosthookccRAT.csproj.ResolveComReference.cache
+C:\Users\19kathor\source\repos\GhosthookccRAT\obj\Debug\netcoreapp3.1\GhosthookccRAT.AssemblyInfoInputs.cache
+C:\Users\19kathor\source\repos\GhosthookccRAT\obj\Debug\netcoreapp3.1\GhosthookccRAT.AssemblyInfo.cs
+C:\Users\19kathor\source\repos\GhosthookccRAT\obj\Debug\netcoreapp3.1\GhosthookccRAT.csproj.CoreCompileInputs.cache
